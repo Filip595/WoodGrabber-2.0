@@ -1,0 +1,1 @@
+First put webhook to the file webhook and then run the WoodGrabber 2.0 it will setup the file and then you can send the same file to others
